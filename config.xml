@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://com.ridwanal24.tbj" version="0.1.0" viewmodes="maximized">
+	<tizen:application required_version="2.2"/>
+	<author href="ridwanalakhyar.blogspot.com" email="ridwanalindonesia@gmail.com">ridwanal24</author>
+	<content src="index.html" />
+	<description>Tangkap buah jatuh sesuai dengan yang diminta</description>
+	<icon src="icon-128.png" width="128" height="128" />
+	<name>Tangkap Buah Jatuh</name>
+	<tizen:setting context-menu="disable" hwkey-event="enable" background-support="disable" encryption="disable" install-location="auto" screen-orientation="portrait" />
+	<feature name="http://tizen.org/feature/screen.size.all"/>
+</widget>
